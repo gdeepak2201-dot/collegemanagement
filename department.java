@@ -2,7 +2,7 @@ package college;
 
 public class department {
 
-    private int deptid;
+    private int deptid; 
     private  String deptname;
 
     public department(int deptid, String deptname) {
